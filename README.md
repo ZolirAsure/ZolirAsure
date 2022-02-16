@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZolirAsure
-- 👀 I’m interested in: C, C++, C#, python, Java, Java Script, bash, PHP, HTML5, and bash
+- 👀 I’m interested in: C, C++, C#, python, Java, Java Script, bash, PHP, HTML5, and MySQL
 - 🌱 I’m currently learning C, Java, python.
 - 💞️ I’m looking to collaborate on -> Not yet~~
 - 📫 How to reach me -> gmail: zolirasure@gmail.com
